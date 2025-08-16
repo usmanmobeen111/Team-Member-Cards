@@ -5,7 +5,7 @@ export const teamData = [
     id: 1,
     name: "Ava Thompson",
     role: "Lead UI/UX Designer",
-    image: "/assets/team/ava.jpg",
+    image: "/ava.jpg",
     socials: [
       { icon: FaTwitter, link: "https://twitter.com/ava" },
       { icon: FaLinkedin, link: "https://linkedin.com/in/ava" },
@@ -17,7 +17,7 @@ export const teamData = [
     id: 2,
     name: "Liam Rodriguez",
     role: "Full Stack Developer",
-    image: "/assets/team/liam.jpg",
+    image: "/liam.jpg",
     socials: [
       { icon: FaGithub, link: "https://github.com/liam" },
       { icon: FaLinkedin, link: "https://linkedin.com/in/liam" },
@@ -29,7 +29,7 @@ export const teamData = [
     id: 3,
     name: "Sophia Lee",
     role: "Frontend Developer",
-    image: "/assets/team/sophia.jpg",
+    image: "/sophia.jpg",
     socials: [
       { icon: FaTwitter, link: "https://twitter.com/sophia" },
       { icon: FaGithub, link: "https://github.com/sophia" },
@@ -41,7 +41,7 @@ export const teamData = [
     id: 4,
     name: "Ethan Carter",
     role: "Backend Engineer",
-    image: "/assets/team/ethan.jpg",
+    image: "/ethan.jpg",
     socials: [
       { icon: FaLinkedin, link: "https://linkedin.com/in/ethan" },
       { icon: FaGithub, link: "https://github.com/ethan" },
@@ -53,7 +53,7 @@ export const teamData = [
     id: 5,
     name: "Isabella Moore",
     role: "Product Manager",
-    image: "/assets/team/isabella.jpg",
+    image: "/isabella.jpg",
     socials: [
       { icon: FaLinkedin, link: "https://linkedin.com/in/isabella" },
       { icon: FaTwitter, link: "https://twitter.com/isabella" },
@@ -65,7 +65,7 @@ export const teamData = [
     id: 6,
     name: "Noah Bennett",
     role: "DevOps Engineer",
-    image: "/assets/team/noah.jpg",
+    image: "/noah.jpg",
     socials: [
       { icon: FaGithub, link: "https://github.com/noah" },
       { icon: FaLinkedin, link: "https://linkedin.com/in/noah" },
